@@ -1,4 +1,4 @@
-* About The Project *
+*About The Project*
 
 IC-ENoteebook - Your notes on the cloud
 
@@ -32,30 +32,31 @@ delete note
 *Project Images*
 
 ADD NOTE
-
+![ADDNOTE](https://user-images.githubusercontent.com/93236799/179958622-d0ca933b-2d8b-4157-968b-03ccbe113dcd.jpg)
 
 EDIT NOTE
+![EDIt ](https://user-images.githubusercontent.com/93236799/179958783-e585b498-3398-4706-a80b-1afdb7bef0aa.jpg)
 
 LOGIN PAGE
+![login page](https://user-images.githubusercontent.com/93236799/179958860-c1318c43-eb25-4afc-acde-57bd48e30f51.jpg)
+
 
 SIGN UP PAGE
+![Sig up](https://user-images.githubusercontent.com/93236799/179958922-85270ec0-41f4-4c75-bf11-06906d3abf52.jpg)
 
 ABOUT PAGE
+![About](https://user-images.githubusercontent.com/93236799/179959005-784c3be0-3bbe-4e40-b261-25ed4c1cade7.jpg)
 
 
 *Built With*
+
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
 React.js
-
 Nodejs
-
 Expressjs
-
 MongoDB
-
 mongoose
-
 Bootstrap
 
 
