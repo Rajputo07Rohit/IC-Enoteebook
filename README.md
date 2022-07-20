@@ -1,15 +1,15 @@
-*About The Project*
+# About The Project
 
-IC-ENoteebook - Your notes on the cloud
+ ## IC-ENoteebook - Your notes on the cloud
 
 An online web platform where you can create, edit, upload, delete your notes/information privately and securely without any disturbancee. For more info you can checkout our About Page
 
 live site on frontend: https://ic-enotebook.herokuapp.com  
 
 
-Made with MERN STACK
+# Made with MERN STACK
 
-Features
+### Features
 
 Create Account
 
@@ -29,26 +29,29 @@ update note
 
 delete note
 
-*Project Images*
 
-ADD NOTE
+# Project Images
+
+
+
+## ADD NOTE
 ![ADDNOTE](https://user-images.githubusercontent.com/93236799/179958622-d0ca933b-2d8b-4157-968b-03ccbe113dcd.jpg)
 
-EDIT NOTE
+## EDIT NOTE
 ![EDIt ](https://user-images.githubusercontent.com/93236799/179958783-e585b498-3398-4706-a80b-1afdb7bef0aa.jpg)
 
-LOGIN PAGE
+## LOGIN PAGE
 ![login page](https://user-images.githubusercontent.com/93236799/179958860-c1318c43-eb25-4afc-acde-57bd48e30f51.jpg)
 
 
-SIGN UP PAGE
+## SIGN UP PAGE
 ![Sig up](https://user-images.githubusercontent.com/93236799/179958922-85270ec0-41f4-4c75-bf11-06906d3abf52.jpg)
 
-ABOUT PAGE
+## ABOUT PAGE
 ![About](https://user-images.githubusercontent.com/93236799/179959005-784c3be0-3bbe-4e40-b261-25ed4c1cade7.jpg)
 
 
-*Built With*
+# Built With
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
