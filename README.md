@@ -1,8 +1,11 @@
-iNotebook - Your notes on the cloud
+* About The Project *
 
-Save Your Notes secured on the cloud
+IC-ENoteebook - Your notes on the cloud
+
+An online web platform where you can create, edit, upload, delete your notes/information privately and securely without any disturbancee. For more info you can checkout our About Page
 
 live site on frontend: https://ic-enotebook.herokuapp.com  
+
 
 Made with MERN STACK
 
@@ -26,6 +29,34 @@ update note
 
 delete note
 
+*Project Images*
+
+ADD NOTE
+
+
+EDIT NOTE
+
+LOGIN PAGE
+
+SIGN UP PAGE
+
+ABOUT PAGE
+
+
+*Built With*
+This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+
+React.js
+
+Nodejs
+
+Expressjs
+
+MongoDB
+
+mongoose
+
+Bootstrap
 
 
 # Getting Started with Create React App
